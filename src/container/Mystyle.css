@@ -1,0 +1,65 @@
+.primary {
+	color: rgb(250, 252, 250);
+	font-size: 20px;
+}
+.form {
+	margin-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-radius: 5%;
+
+	align-items: 'center';
+	background: rgb(146, 124, 165);
+	padding: 20px;
+	width: 300px;
+	height: 250px;
+}
+.input {
+	margin: 10px;
+	padding: 5px 60px;
+}
+.in {
+	margin: 10px;
+	padding: 5px 60px;
+}
+.b {
+	background-color: rgb(81, 58, 102);
+	border: none;
+	margin: 40px;
+	color: white;
+	padding: 7px 90px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-block-start: 20px;
+}
+.all {
+	padding-left: 35%;
+}
+.h {
+	color: rgb(5, 0, 10);
+	font-size: 30px;
+	padding-left: 9%;
+}
+.c {
+	background-color: rgb(81, 58, 102);
+	border: none;
+	margin: 40px;
+	color: white;
+	padding: 7px 90px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin-top: 20px;
+	margin-block-start: 20px;
+}
+.pc {
+	padding-top: 20%;
+	padding-left: 30%;
+}
+.p1c {
+	background-color: rgb(248, 184, 162);
+}
